@@ -1,0 +1,17 @@
+{
+    "name": "angelina43/collect",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Angelina43\\Collect\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "files": [
+        "src/helpers.php"
+    ]
+}
