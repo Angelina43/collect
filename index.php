@@ -9,4 +9,5 @@ $records =
         'first_name' => 'John',
         'last_name' => 'Doe',
     ];
-var_dump(collection($records)->toArray());
+//var_dump(collection($records)->toArray());
+var_dump($records);
